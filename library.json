@@ -2,7 +2,7 @@
   "name": "ElsterMeterReader",
   "keywords": "elster, energy, monitoring",
   "description": "Read data from Elster electricity meters via IR",
-  "version": "1.0",
+  "version": "1.0.0",
   "repository":
   {
     "type": "git",
